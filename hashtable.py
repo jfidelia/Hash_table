@@ -59,7 +59,7 @@ class HashMap:
                                 print(str(item))
 			
 h = HashMap()
-h.add('Bob', '567-8888')
+h.add('Bob', '567-12345')
 h.add('Ming', '293-6753')
 h.add('Ming', '333-8233')
 h.add('Ankit', '293-8625')
